@@ -7,7 +7,7 @@
 install.packages("languageserver")
 
 #-----------Introduction-------------------
-#Our dataset can be downloaded from here: https://drive.google.com/file/d/11WetHwVuqTwPRiexe02sk8Nf_7queNqq/view?usp=share_link
+#Our sample dataset can be downloaded from here: https://drive.google.com/file/d/11WetHwVuqTwPRiexe02sk8Nf_7queNqq/view?usp=share_link
 load("/Users/Imthiyas/Library/CloudStorage/OneDrive-UniversityofLeeds/MSc Data Science & Analytics/Semester 1/Statistical Theory & Methods/Coursework/mysample.RData")
 Data = get('mysample')
 print(Data)
