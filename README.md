@@ -9,9 +9,7 @@ with a variance of around **74**. The author of that research believes that this
 applies to all breeds of dog.
 
 However, other researchers believe that the average time taken to rehome dogs
-depends strongly on their breed and will differ from 27 weeks for some breeds. The goal of this
-coursework is to investigate this by analysing a sample consisting of three different
-breeds of dog.
+depends strongly on their breed and will differ from 27 weeks for some breeds. The goal is to investigate this by analysing a sample consisting of three different breeds of dog.
 
 <p align="center">
 <img width="471" alt="Screenshot 2023-12-17 at 12 31 37 pm" src="https://github.com/its-imthiyas/Average_Rehoming_Time_for_Dogs_in_Shelter-A-Statistical-Method/assets/84977554/86aff290-630e-4aa6-aba9-6f7389a3c0aa">
